@@ -1,0 +1,19 @@
+# Reading E:/modelsim/software/tcl/vsim/pref.tcl
+# error: Layout::Clairvoyance can't read "map(þ)": no such element in array
+# can't read "map(þ)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# //  ModelSim SE-64 10.5 Feb 13 2016 
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile D:/þ\/pWÆ5ï¾¡/2101210593-NN-,Œ!\/ALU_core.v
